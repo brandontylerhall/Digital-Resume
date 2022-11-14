@@ -1,0 +1,17 @@
+/*elements*/
+div {
+    text-align: center;
+}
+
+hr {
+    margin: 1em 10% 1em 10%;
+}
+/*id's*/
+#name {
+    font-size: 4em;
+}
+
+#title {
+    font-size: 2.5em;
+}
+/*classes*/
