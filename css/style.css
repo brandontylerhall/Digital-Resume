@@ -21,7 +21,8 @@ hr {
 li {
     margin-left: 3em;
 }
-/*id's*/
+
+/*ids*/
 div#about-me {
     text-align: center;
 }
@@ -37,7 +38,12 @@ div#contact {
 #title {
     font-size: 2.5em;
 }
+
 /*classes*/
+span.bold {
+    font-weight: bolder;
+}
+
 /*kinda looks stupid but idk yet*/
 .vl {
     border-left: 2px solid black;
